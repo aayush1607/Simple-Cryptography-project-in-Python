@@ -10,7 +10,7 @@ The receiver will choose any two prime numbers. The larger is the prime number l
 why?
 because we are using euler totent function. With that for very large prime numbers choosen the hacker might take 1000's of years to crack your message.
 
-He will be then given multiplication of those two prime numbers selected and a also another number which is a public key.
+The Receiver will be then given multiplication of those two prime numbers selected and a also another number which is a public key.
 So he can make this key public. No matter who gets it No other person other than he intends can crack his message.
 How?
 The logic is that he will not be giving those two prime numbers to anyone and keep ot safe.
